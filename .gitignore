@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+env/
+.venv/
+env.bak/
+venv.bak/
+
+# Datasets (Optional - add if the CSV is very large)
+# final_merged_dataset2.csv
+
+# Output Reports
+hr_report.pdf
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
